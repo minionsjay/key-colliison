@@ -1,0 +1,1 @@
+This repository contains the code used to validate key collision pairs for the paper "Practical Key Collision on AES and Kiasu-BC".
